@@ -4,6 +4,7 @@ PROJETO COFFEE DELIVERY
 * Desafio prático proposto no curso de Formação em ReactJS - Rocketseat.
 
 Descrição:
+
 Aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
 
 - Listagem de produtos (cafés) disponíveis para compra
@@ -13,7 +14,7 @@ Aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia, qu
 - Exibir o total de itens no carrinho no Header
 - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
 
-*Conceitos utilizados:
+Conceitos utilizados:
 - Estados
 - ContextAPI
 - LocalStorage
